@@ -49,6 +49,9 @@ Credits to : [De-Panther](https://github.com/De-Panther), [ExtendRealityLtd](htt
     
     - Requires : Unity 2021.3.20f1 (other versions may cause bugs)
     - A page to host the product after build.
+    - you can find the scene under My project\Assets\Samples\WebXR Interactions\0.16.3-preview\Sample Scene\Scenes
+    - open the scene and you can test it in unity
+    - remember to make sure that the scene is included in the build list before building else nothing will happen.
     
     ---
     
