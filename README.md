@@ -6,7 +6,7 @@ Name : Leong Jun Xiang
 
 SITID: 2000857
 
-You can play the project at : 
+You can play the project at : [here](https://junxiang-leong.github.io/IPA_CSD3120/)
 
 ---
 
